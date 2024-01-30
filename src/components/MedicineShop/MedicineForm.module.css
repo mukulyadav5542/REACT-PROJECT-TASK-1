@@ -1,0 +1,8 @@
+.container{
+    position: fixed;
+    width: 100%;
+    padding-top: 150px;
+    padding-left: 100px;
+    margin: 50px;
+    align-items: center;
+}
